@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/from-contact-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/from-contact-react/static/js/main.374fd983.chunk.js",
+    "main.js.map": "/from-contact-react/static/js/main.374fd983.chunk.js.map",
+    "runtime-main.js": "/from-contact-react/static/js/runtime-main.1200e738.js",
+    "runtime-main.js.map": "/from-contact-react/static/js/runtime-main.1200e738.js.map",
+    "static/js/2.43cc51bf.chunk.js": "/from-contact-react/static/js/2.43cc51bf.chunk.js",
+    "static/js/2.43cc51bf.chunk.js.map": "/from-contact-react/static/js/2.43cc51bf.chunk.js.map",
+    "static/js/3.ea21e107.chunk.js": "/from-contact-react/static/js/3.ea21e107.chunk.js",
+    "static/js/3.ea21e107.chunk.js.map": "/from-contact-react/static/js/3.ea21e107.chunk.js.map",
+    "index.html": "/from-contact-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/from-contact-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.43cc51bf.chunk.js.LICENSE.txt": "/from-contact-react/static/js/2.43cc51bf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/from-contact-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1200e738.js",
+    "static/js/2.43cc51bf.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.374fd983.chunk.js"
+  ]
+}
